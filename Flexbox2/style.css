@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cube{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.cube div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+section{
+    width: 1200px;
+    border: 2px solid orange;
+}

@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+
+}
+nav ul li{
+    margin-right: 40px;
+}
+nav img{
+    width: 150px;
+}
+nav ul li a{
+    text-decoration: none;
+}
+
+header
+{
+    width: 1200px;
+    height: auto;
+    margin: 2% auto;
+    background-color:aqua;
+    display: flex;
+}
+
+.big__box{
+    width: 1200px;
+    height: auto;
+    margin: 2% auto;
+    background-color:aqua;
+    display: flex;
+}
+
+.second__box{
+    width: 1200px;
+    height: auto;
+    margin: 2% auto;
+    background-color:aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.attachement{
+    display: flex;
+    background-color: blueviolet;
+    width: 400px;
+}
+.one{
+    display: flex;
+    background-color: beige;
+    height: auto;
+}
+section{
+    width: 1200px;
+    margin:auto;;
+}
+section p{
+    margin: auto;
+    text-align: center;
+    width: 800px;
+}
+section img{
+    justify-content: right;
+    float: right;
+}
